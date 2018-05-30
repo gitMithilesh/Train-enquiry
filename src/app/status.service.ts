@@ -4,7 +4,6 @@ import {Injectable} from '@angular/core';
 
 @Injectable()
 export class StatusService {
-  private trainLiveAPI = 'https://api.railwayapi.com/v2/live/train/12553/date/17-04-2018/apikey/3s2yqi3xjf/';
   stationLiveAPI = '';
 
   constructor(private http: Http) { }
