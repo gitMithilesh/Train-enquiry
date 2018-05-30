@@ -1,0 +1,15 @@
+{
+    "response_code": 200,
+    "debit" : 1,
+    "total": 2,
+    "stations": [
+      {
+        "name": "MUMBAI CST",
+        "code": "CSTM"
+      },
+      {
+        "name": "MUMBAI CENTRAL",
+        "code": "BCT"
+      }
+    ]
+  }

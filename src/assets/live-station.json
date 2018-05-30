@@ -1,0 +1,487 @@
+{
+    "total": 48,
+    "trains": [
+        {
+            "number": "54012",
+            "schdep": "08:52",
+            "name": "SDLP TKJ PASSENGER",
+            "scharr": "08:50",
+            "delayarr": "RIGHT TIME",
+            "actdep": "08:52",
+            "actarr": "08:50",
+            "delaydep": "RIGHT TIME"
+        },
+        {
+            "number": "64424",
+            "schdep": "09:10",
+            "name": "NDLS-GZB EMU",
+            "scharr": "Source",
+            "delayarr": "RIGHT TIME",
+            "actdep": "09:10",
+            "actarr": "Source",
+            "delaydep": "RIGHT TIME"
+        },
+        {
+            "number": "64109",
+            "schdep": "08:45",
+            "name": "DKDE-SSB 12CAR EMU",
+            "scharr": "08:43",
+            "delayarr": "00:31",
+            "actdep": "09:16",
+            "actarr": "09:14",
+            "delaydep": "00:31"
+        },
+        {
+            "number": "64071",
+            "schdep": "09:15",
+            "name": "BVH-NDLS EMU",
+            "scharr": "09:13",
+            "delayarr": "00:02",
+            "actdep": "09:17",
+            "actarr": "09:15",
+            "delaydep": "00:02"
+        },
+        {
+            "number": "64911",
+            "schdep": "09:25",
+            "name": "NDLS-ROK MEMU",
+            "scharr": "Source",
+            "delayarr": "RIGHT TIME",
+            "actdep": "09:25",
+            "actarr": "Source",
+            "delaydep": "RIGHT TIME"
+        },
+        {
+            "number": "12436",
+            "schdep": "09:25",
+            "name": "NDLS - DBRT RAJDHANI",
+            "scharr": "Source",
+            "delayarr": "RIGHT TIME",
+            "actdep": "09:25",
+            "actarr": "Source",
+            "delaydep": "RIGHT TIME"
+        },
+        {
+            "number": "64439",
+            "schdep": "09:00",
+            "name": "GZB-DLI 12CAR EMU",
+            "scharr": "08:58",
+            "delayarr": "00:26",
+            "actdep": "09:26",
+            "actarr": "09:24",
+            "delaydep": "00:26"
+        },
+        {
+            "number": "64462",
+            "schdep": "09:15",
+            "name": "KKDE-NZM MEMU",
+            "scharr": "09:13",
+            "delayarr": "00:12",
+            "actdep": "09:27",
+            "actarr": "09:25",
+            "delaydep": "00:12"
+        },
+        {
+            "number": "54412",
+            "schdep": "09:30",
+            "name": "MTC-RE PASSENGER",
+            "scharr": "09:10",
+            "delayarr": "00:02",
+            "actdep": "09:32",
+            "actarr": "09:12",
+            "delaydep": "00:02"
+        },
+        {
+            "number": "64428",
+            "schdep": "09:35",
+            "name": "NDLS-GZB EMU",
+            "scharr": "Source",
+            "delayarr": "RIGHT TIME",
+            "actdep": "09:35",
+            "actarr": "Source",
+            "delaydep": "RIGHT TIME"
+        },
+        {
+            "number": "64903",
+            "schdep": "09:10",
+            "name": "MTJ-GZB 12CAR EMU",
+            "scharr": "08:55",
+            "delayarr": "00:31",
+            "actdep": "09:41",
+            "actarr": "09:26",
+            "delaydep": "00:31"
+        },
+        {
+            "number": "64411",
+            "schdep": "09:42",
+            "name": "SBB-DLI  EMU",
+            "scharr": "09:40",
+            "delayarr": "RIGHT TIME",
+            "actdep": "09:42",
+            "actarr": "09:40",
+            "delaydep": "RIGHT TIME"
+        },
+        {
+            "number": "14086",
+            "schdep": "09:45",
+            "name": "HARYANA EXPRESS",
+            "scharr": "09:43",
+            "delayarr": "RIGHT TIME",
+            "actdep": "09:45",
+            "actarr": "09:43",
+            "delaydep": "RIGHT TIME"
+        },
+        {
+            "number": "64091",
+            "schdep": "09:30",
+            "name": "HNZM-HNZM EMU",
+            "scharr": "09:28",
+            "delayarr": "00:17",
+            "actdep": "09:47",
+            "actarr": "09:45",
+            "delaydep": "00:17"
+        },
+        {
+            "number": "64567",
+            "schdep": "09:05",
+            "name": "BSC-TKJ PASSENGER",
+            "scharr": "09:03",
+            "delayarr": "00:43",
+            "actdep": "09:48",
+            "actarr": "09:46",
+            "delaydep": "00:43"
+        },
+        {
+            "number": "64426",
+            "schdep": "09:50",
+            "name": "NDLS-GZB 12CAR EMU",
+            "scharr": "Source",
+            "delayarr": "RIGHT TIME",
+            "actdep": "09:50",
+            "actarr": "Source",
+            "delaydep": "RIGHT TIME"
+        },
+        {
+            "number": "64095",
+            "schdep": "09:50",
+            "name": "NDLS-SSB 10CAR EMU",
+            "scharr": "Source",
+            "delayarr": "RIGHT TIME",
+            "actdep": "09:50",
+            "actarr": "Source",
+            "delaydep": "RIGHT TIME"
+        },
+        {
+            "number": "64031",
+            "schdep": "09:55",
+            "name": "GZB-SSB 12CAR EMU",
+            "scharr": "09:53",
+            "delayarr": "RIGHT TIME",
+            "actdep": "09:55",
+            "actarr": "09:53",
+            "delaydep": "RIGHT TIME"
+        },
+        {
+            "number": "64055",
+            "schdep": "10:10",
+            "name": "PWL-GZB 12CAR EMU",
+            "scharr": "09:50",
+            "delayarr": "RIGHT TIME",
+            "actdep": "10:10",
+            "actarr": "09:50",
+            "delaydep": "RIGHT TIME"
+        },
+        {
+            "number": "11901",
+            "schdep": "08:45",
+            "name": "MTJ KKDE EXPRESS",
+            "scharr": "08:25",
+            "delayarr": "01:26",
+            "actdep": "10:11",
+            "actarr": "09:51",
+            "delaydep": "01:26"
+        },
+        {
+            "number": "11078",
+            "schdep": "10:15",
+            "name": "JHELUM EXPRESS",
+            "scharr": "09:55",
+            "delayarr": "RIGHT TIME",
+            "actdep": "10:15",
+            "actarr": "09:55",
+            "delaydep": "RIGHT TIME"
+        },
+        {
+            "number": "12562",
+            "schdep": "20:40",
+            "name": "SWATANTRTA SENANI  EXP",
+            "scharr": "Source",
+            "delayarr": "RIGHT TIME",
+            "actdep": "10:30",
+            "actarr": "Source",
+            "delaydep": "13:50"
+        },
+        {
+            "number": "14323",
+            "schdep": "10:35",
+            "name": "ROK INTERCITY EXP",
+            "scharr": "Source",
+            "delayarr": "RIGHT TIME",
+            "actdep": "10:35",
+            "actarr": "Source",
+            "delaydep": "RIGHT TIME"
+        },
+        {
+            "number": "64012",
+            "schdep": "10:40",
+            "name": "SSB-PWL 12CAR EMU",
+            "scharr": "10:38",
+            "delayarr": "RIGHT TIME",
+            "actdep": "10:40",
+            "actarr": "10:38",
+            "delaydep": "RIGHT TIME"
+        },
+        {
+            "number": "64901",
+            "schdep": "10:50",
+            "name": "KSV-GZB 12CAR EMU",
+            "scharr": "10:48",
+            "delayarr": "RIGHT TIME",
+            "actdep": "10:50",
+            "actarr": "10:48",
+            "delaydep": "RIGHT TIME"
+        },
+        {
+            "number": "12925",
+            "schdep": "11:05",
+            "name": "PASCHIM EXPRESS",
+            "scharr": "10:40",
+            "delayarr": "RIGHT TIME",
+            "actdep": "11:05",
+            "actarr": "10:40",
+            "delaydep": "RIGHT TIME"
+        },
+        {
+            "number": "12559",
+            "schdep": "Destination",
+            "name": "SHIV GANGA EXP",
+            "scharr": "08:10",
+            "delayarr": "01:32",
+            "actdep": "Destination",
+            "actarr": "09:42",
+            "delaydep": "RIGHT TIME"
+        },
+        {
+            "number": "12006",
+            "schdep": "Destination",
+            "name": "KLK-NDLS SHATABDI EXP",
+            "scharr": "10:20",
+            "delayarr": "RIGHT TIME",
+            "actdep": "Destination",
+            "actarr": "10:20",
+            "delaydep": "RIGHT TIME"
+        },
+        {
+            "number": "64449",
+            "schdep": "Destination",
+            "name": "GZB-NDLS LADIES SPL",
+            "scharr": "09:20",
+            "delayarr": "RIGHT TIME",
+            "actdep": "Destination",
+            "actarr": "09:20",
+            "delaydep": "RIGHT TIME"
+        },
+        {
+            "number": "12014",
+            "schdep": "Destination",
+            "name": "ASR-NDLS SHATABDI EXP",
+            "scharr": "11:00",
+            "delayarr": "RIGHT TIME",
+            "actdep": "Destination",
+            "actarr": "11:00",
+            "delaydep": "RIGHT TIME"
+        },
+        {
+            "number": "22462",
+            "schdep": "Destination",
+            "name": "SHRI SHAKTI EXPRESS",
+            "scharr": "10:35",
+            "delayarr": "RIGHT TIME",
+            "actdep": "Destination",
+            "actarr": "10:35",
+            "delaydep": "RIGHT TIME"
+        },
+        {
+            "number": "64077",
+            "schdep": "Destination",
+            "name": "PWL-NDLS EMU",
+            "scharr": "09:30",
+            "delayarr": "RIGHT TIME",
+            "actdep": "Destination",
+            "actarr": "09:30",
+            "delaydep": "RIGHT TIME"
+        },
+        {
+            "number": "12313",
+            "schdep": "Destination",
+            "name": "SDAH RAJDHANI EXPRESS",
+            "scharr": "10:25",
+            "delayarr": "RIGHT TIME",
+            "actdep": "Destination",
+            "actarr": "10:25",
+            "delaydep": "RIGHT TIME"
+        },
+        {
+            "number": "12301",
+            "schdep": "Destination",
+            "name": "KOLKATA RAJDHANI EXPRESS",
+            "scharr": "10:00",
+            "delayarr": "RIGHT TIME",
+            "actdep": "Destination",
+            "actarr": "10:00",
+            "delaydep": "RIGHT TIME"
+        },
+        {
+            "number": "64075",
+            "schdep": "Destination",
+            "name": "PWL-NDLS 10CAR EMU",
+            "scharr": "08:50",
+            "delayarr": "00:22",
+            "actdep": "Destination",
+            "actarr": "09:12",
+            "delaydep": "RIGHT TIME"
+        },
+        {
+            "number": "12439",
+            "schdep": "Destination",
+            "name": "RNC NDLS RAJDHANI EXPRESS",
+            "scharr": "10:50",
+            "delayarr": "RIGHT TIME",
+            "actdep": "Destination",
+            "actarr": "10:50",
+            "delaydep": "RIGHT TIME"
+        },
+        {
+            "number": "64491",
+            "schdep": "Destination",
+            "name": "PWL-NDLS LADIESD SPL",
+            "scharr": "10:00",
+            "delayarr": "RIGHT TIME",
+            "actdep": "Destination",
+            "actarr": "10:00",
+            "delaydep": "RIGHT TIME"
+        },
+        {
+            "number": "14315",
+            "schdep": "Destination",
+            "name": "INTERCITY EXP",
+            "scharr": "10:15",
+            "delayarr": "00:25",
+            "actdep": "Destination",
+            "actarr": "10:40",
+            "delaydep": "RIGHT TIME"
+        },
+        {
+            "number": "64912",
+            "schdep": "Destination",
+            "name": "ROK-NDLS MEMU",
+            "scharr": "09:15",
+            "delayarr": "00:02",
+            "actdep": "Destination",
+            "actarr": "09:17",
+            "delaydep": "RIGHT TIME"
+        },
+        {
+            "number": "12723",
+            "schdep": "Destination",
+            "name": "TELANGANA EXPRESS",
+            "scharr": "09:05",
+            "delayarr": "RIGHT TIME",
+            "actdep": "Destination",
+            "actarr": "09:05",
+            "delaydep": "RIGHT TIME"
+        },
+        {
+            "number": "64470",
+            "schdep": "Destination",
+            "name": "PNP-NDLS LADIES SPL.",
+            "scharr": "08:55",
+            "delayarr": "00:05",
+            "actdep": "Destination",
+            "actarr": "09:00",
+            "delaydep": "RIGHT TIME"
+        },
+        {
+            "number": "12381",
+            "schdep": "Destination",
+            "name": "POORVA EXPRESS",
+            "scharr": "06:05",
+            "delayarr": "03:21",
+            "actdep": "Destination",
+            "actarr": "09:26",
+            "delaydep": "RIGHT TIME"
+        },
+        {
+            "number": "64905",
+            "schdep": "Destination",
+            "name": "MTJ-NDLS 12CAR EMU",
+            "scharr": "08:20",
+            "delayarr": "00:41",
+            "actdep": "Destination",
+            "actarr": "09:01",
+            "delaydep": "RIGHT TIME"
+        },
+        {
+            "number": "12423",
+            "schdep": "Destination",
+            "name": "DBRT-NDLS RAJDHANI",
+            "scharr": "10:20",
+            "delayarr": "00:22",
+            "actdep": "Destination",
+            "actarr": "10:42",
+            "delaydep": "RIGHT TIME"
+        },
+        {
+            "number": "64105",
+            "schdep": "Destination",
+            "name": "ALJN-DLI 12CAR EMU",
+            "scharr": "09:30",
+            "delayarr": "RIGHT TIME",
+            "actdep": "Destination",
+            "actarr": "09:30",
+            "delaydep": "RIGHT TIME"
+        },
+        {
+            "number": "14257",
+            "schdep": "Destination",
+            "name": "K V EXP",
+            "scharr": "06:15",
+            "delayarr": "02:58",
+            "actdep": "Destination",
+            "actarr": "09:13",
+            "delaydep": "RIGHT TIME"
+        },
+        {
+            "number": "12391",
+            "schdep": "Destination",
+            "name": "SHRAMJEEVI EXPRESS",
+            "scharr": "05:10",
+            "delayarr": "05:01",
+            "actdep": "Destination",
+            "actarr": "10:11",
+            "delaydep": "RIGHT TIME"
+        },
+        {
+            "number": "12801",
+            "schdep": "Destination",
+            "name": "PURI-NDLS PURUSHOTTAM",
+            "scharr": "04:25",
+            "delayarr": "05:08",
+            "actdep": "Destination",
+            "actarr": "09:33",
+            "delaydep": "RIGHT TIME"
+        }
+    ],
+    "response_code": 200,
+    "debit": 1
+}

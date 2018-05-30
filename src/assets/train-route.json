@@ -1,0 +1,236 @@
+{
+    "response_code": 200,
+    "route": [
+        {
+            "halt": -1,
+            "schdep": "08:35",
+            "distance": 0.0,
+            "day": 1,
+            "no": 1,
+            "scharr": "SOURCE",
+            "station": {
+                "code": "DBG",
+                "name": "DARBHANGA JN",
+                "lng": 85.8995119,
+                "lat": 26.1569653
+            }
+        },
+        {
+            "halt": 20,
+            "schdep": "09:45",
+            "distance": 37.0,
+            "day": 1,
+            "no": 2,
+            "scharr": "09:25",
+            "station": {
+                "code": "SPJ",
+                "name": "SAMASTIPUR JN",
+                "lng": 85.916667,
+                "lat": 25.75
+            }
+        },
+        {
+            "halt": 5,
+            "schdep": "10:40",
+            "distance": 89.0,
+            "day": 1,
+            "no": 3,
+            "scharr": "10:35",
+            "station": {
+                "code": "MFP",
+                "name": "MUZAFFARPUR JN",
+                "lng": 85.416667,
+                "lat": 26.166667
+            }
+        },
+        {
+            "halt": 3,
+            "schdep": "11:28",
+            "distance": 143.0,
+            "day": 1,
+            "no": 4,
+            "scharr": "11:25",
+            "station": {
+                "code": "HJP",
+                "name": "HAJIPUR JN",
+                "lng": 85.2090094,
+                "lat": 25.6905568
+            }
+        },
+        {
+            "halt": 2,
+            "schdep": "11:40",
+            "distance": 149.0,
+            "day": 1,
+            "no": 5,
+            "scharr": "11:38",
+            "station": {
+                "code": "SEE",
+                "name": "SONPUR JN",
+                "lng": 82.5947818084139,
+                "lat": 27.88121275
+            }
+        },
+        {
+            "halt": 5,
+            "schdep": "12:50",
+            "distance": 202.0,
+            "day": 1,
+            "no": 6,
+            "scharr": "12:45",
+            "station": {
+                "code": "CPR",
+                "name": "CHHAPRA",
+                "lng": 84.7514507,
+                "lat": 25.7784105
+            }
+        },
+        {
+            "halt": 5,
+            "schdep": "13:45",
+            "distance": 263.0,
+            "day": 1,
+            "no": 7,
+            "scharr": "13:40",
+            "station": {
+                "code": "SV",
+                "name": "SIWAN JN",
+                "lng": 84.5,
+                "lat": 26.166667
+            }
+        },
+        {
+            "halt": 15,
+            "schdep": "16:05",
+            "distance": 382.0,
+            "day": 1,
+            "no": 8,
+            "scharr": "15:50",
+            "station": {
+                "code": "GKP",
+                "name": "GORAKHPUR",
+                "lng": 83.3668129,
+                "lat": 26.7600217
+            }
+        },
+        {
+            "halt": 15,
+            "schdep": "21:10",
+            "distance": 652.0,
+            "day": 1,
+            "no": 9,
+            "scharr": "20:55",
+            "station": {
+                "code": "LKO",
+                "name": "LUCKNOW",
+                "lng": 80.9999263,
+                "lat": 26.7502294
+            }
+        },
+        {
+            "halt": 10,
+            "schdep": "22:58",
+            "distance": 726.0,
+            "day": 1,
+            "no": 10,
+            "scharr": "22:48",
+            "station": {
+                "code": "CNB",
+                "name": "KANPUR CENTRAL",
+                "lng": 80.3506961,
+                "lat": 26.4547354
+            }
+        },
+        {
+            "halt": -1,
+            "schdep": "DEST",
+            "distance": 1174.0,
+            "day": 2,
+            "no": 11,
+            "scharr": "05:30",
+            "station": {
+                "code": "NDLS",
+                "name": "NEW DELHI",
+                "lng": 77.2022662,
+                "lat": 28.6141793
+            }
+        }
+    ],
+    "debit": 1,
+    "train": {
+        "name": "BIHAR SAMPARK KRANTI EXP",
+        "number": "12565",
+        "days": [
+            {
+                "runs": "Y",
+                "code": "MON"
+            },
+            {
+                "runs": "Y",
+                "code": "TUE"
+            },
+            {
+                "runs": "Y",
+                "code": "WED"
+            },
+            {
+                "runs": "Y",
+                "code": "THU"
+            },
+            {
+                "runs": "Y",
+                "code": "FRI"
+            },
+            {
+                "runs": "Y",
+                "code": "SAT"
+            },
+            {
+                "runs": "Y",
+                "code": "SUN"
+            }
+        ],
+        "classes": [
+            {
+                "available": "Y",
+                "code": "2A",
+                "name": "SECOND AC"
+            },
+            {
+                "available": "Y",
+                "code": "SL",
+                "name": "SLEEPER CLASS"
+            },
+            {
+                "available": "N",
+                "code": "3E",
+                "name": "3rd AC ECONOMY"
+            },
+            {
+                "available": "N",
+                "code": "CC",
+                "name": "AC CHAIR CAR"
+            },
+            {
+                "available": "N",
+                "code": "FC",
+                "name": "FIRST CLASS"
+            },
+            {
+                "available": "Y",
+                "code": "1A",
+                "name": "FIRST AC"
+            },
+            {
+                "available": "N",
+                "code": "2S",
+                "name": "SECOND SEATING"
+            },
+            {
+                "available": "Y",
+                "code": "3A",
+                "name": "THIRD AC"
+            }
+        ]
+    }
+}

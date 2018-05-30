@@ -1,0 +1,25 @@
+
+<div *ngIf='loader' class="loader"></div>
+<div *ngIf='data' class="table-area">
+  <h5>Train : {{data.train.name}}</h5>
+<table class="table">
+    <thead>
+      <tr>
+        <th>Station </th>
+        <th>Sheduled Arr.</th>
+        <th>Sheduled Dep.</th>
+        <th>distance</th>
+        <th>day</th>
+      </tr>
+    </thead>
+    <tbody>
+    <tr *ngFor='let route of data.route'>
+        <td>{{route.station.name}}</td>
+        <td>{{route.scharr}}</td>
+        <td>{{route.schdep}}</td>
+        <td>{{route.distance}}</td>
+        <td>{{route.day}}</td>
+      </tr>
+    </tbody>
+  </table>
+  </div>

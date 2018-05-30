@@ -1,0 +1,12 @@
+/* You can add global styles to this file, and also import other style files */
+/* @import './node_modules/bootstrap/dist/css/bootstrap.min.css'; */
+
+@import '~bootstrap/dist/css/bootstrap.min.css';
+/* @import "~@angular/material/prebuilt-themes/indigo-pink.css"; */
+
+body{background: #ccc;}
+.container{background: #fff;} */
+.left-nav{background: #e2edff;}
+.left-nav ul{margin-top: 30px; list-style: none;}
+.content{background: #fff} 
+app-live-train, app-live-station{width:100%}

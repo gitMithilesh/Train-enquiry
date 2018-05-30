@@ -1,0 +1,23 @@
+{
+    "response_code": 200,
+    "debit": 1,
+    "total": 4,
+    "trains": [
+      {
+        "number": "12559",
+        "name": "SHIV GANGA EXP"
+      },
+      {
+        "number": "12560",
+        "name": "SHIV GANGA EXP"
+      },
+      {
+        "number": "52451",
+        "name": "SHIVALK DLX EXP"
+      },
+      {
+        "number": "52452",
+        "name": "SHIVALK DLX EXP"
+      }
+    ]
+  }

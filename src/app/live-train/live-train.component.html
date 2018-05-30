@@ -1,0 +1,6 @@
+<div *ngIf='loading'>Data Loading..</div>
+<div *ngIf='data'><div>
+  <h5>Train name : {{data.train.name}}</h5>
+    <h6>Current position : {{data.position}}</h6>
+    <h6>Current station : {{data.current_station.name}}</h6>
+</div>

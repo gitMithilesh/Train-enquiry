@@ -1,0 +1,10 @@
+<div *ngIf='loading'>Data Loading..</div>
+<div *ngIf='data'><div>
+  <h5 >Train Name :  {{data.train.name}}</h5>
+   <h6>Train Number : {{data.train.number}} </h6>
+   <h6>From :  {{data.from_station.name}} </h6>
+   <h6>To :  {{data.to_station.name}}  </h6>
+   <h6>Quota :  {{data.quota.name}}  </h6>
+   <h6>Class :  {{data.journey_class.name}}  </h6>
+   <h6>Fare :  {{data.fare}}  </h6>
+</div>

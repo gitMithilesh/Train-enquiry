@@ -1,0 +1,26 @@
+<div *ngIf='loading'>Data Loading..</div>
+<div *ngIf='data'><div>
+  <h5 >Total Trains :  {{data.total}}</h5>
+    <table class="table">
+        <thead>
+          <tr>
+            <th>Train </th>
+            <th>From</th>
+            <th>To</th>
+            <th>Source Departure</th>
+            <th>Dest. Arrival</th>
+            <th>Travel time</th>
+          </tr>
+        </thead>
+        <tbody>
+        <tr *ngFor='let train of data.trains'>
+            <td>{{train.name}} ({{train.number}})</td>
+            <td>{{train.from_station.name}}</td>
+            <td>{{train.to_station.name}}</td>
+            <td>{{train.src_departure_time}}</td>
+            <td>{{train.dest_arrival_time}}</td>
+            <td>{{train.travel_time}}</td>
+          </tr>
+        </tbody>
+      </table>
+</div>

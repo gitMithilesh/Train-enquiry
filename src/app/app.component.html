@@ -1,0 +1,27 @@
+<!--The content below is only a placeholder and can be replaced.-->
+<div class="container-fluid">
+    <div class="row">
+        <div class="col-sm-2 left-nav">
+            <nav>
+                <ul>
+                    <li><a routerLink="/live-station" routerLinkActive="active">Live station</a></li>
+                    <li><a routerLink="/live-train" routerLinkActive="active">Live train</a></li>
+                    <li><a routerLink="/train-route" routerLinkActive="active">Train Route</a></li>
+                    <li><a routerLink="/seat-avalibility" routerLinkActive="active">Seat Avalibility</a></li>
+                    <li><a routerLink="/train-fare" routerLinkActive="active">Train Fare</a></li>
+                    <li><a routerLink="/train-between-stations" routerLinkActive="active">Trains between stations</a></li>
+                </ul>
+            </nav>
+            <!-- <mat-list>
+                <mat-list-item><a routerLink="/live-station" routerLinkActive="active">Live station</a></mat-list-item>
+                <mat-divider></mat-divider>
+                <mat-list-item><a routerLink="/live-train" routerLinkActive="active">Live train</a></mat-list-item>
+                <mat-divider></mat-divider>
+                <mat-list-item><a routerLink="/train-route" routerLinkActive="active">Train Route</a></mat-list-item>
+              </mat-list> -->
+        </div>
+        <div class="col-sm-10 content">
+            <router-outlet></router-outlet>
+        </div>
+    </div>
+</div>

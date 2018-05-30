@@ -1,0 +1,22 @@
+<div *ngIf='loading'>Data Loading..</div>
+<div *ngIf='data'><div>
+  <h5 >Train name :  {{data.train.name}} ({{data.train.number}})</h5>
+    <h6>Quota : {{data.quota.name}}</h6>
+    <h6>Journey class : {{data.journey_class.name}}</h6>
+    <h6>From : {{data.from_station.name}}</h6>
+    <h6>To : {{data.to_station.name}}</h6>
+    <table class="table">
+        <thead>
+          <tr>
+            <th>Date </th>
+            <th>Seat Avalaibility</th>
+          </tr>
+        </thead>
+        <tbody>
+        <tr *ngFor='let available of data.availability'>
+            <td>{{available.date}}</td>
+            <td>{{available.status}}</td>
+          </tr>
+        </tbody>
+      </table>
+</div>

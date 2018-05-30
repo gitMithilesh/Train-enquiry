@@ -1,0 +1,310 @@
+{
+    "route": [
+        {
+            "actarr_date": "19 Apr 2018",
+            "has_departed": false,
+            "schdep": "08:35",
+            "status": "0 mins late",
+            "latemin": 0,
+            "has_arrived": false,
+            "scharr_date": "19 Apr 2018",
+            "distance": 0,
+            "scharr": "Source",
+            "station": {
+                "code": "DBG",
+                "lat": 26.1569653,
+                "name": "DARBHANGA JN",
+                "lng": 85.8995119
+            },
+            "actdep": "14:35",
+            "actarr": "00:00",
+            "day": 0
+        },
+        {
+            "actarr_date": "19 Apr 2018",
+            "has_departed": false,
+            "schdep": "09:45",
+            "status": "351 mins late",
+            "latemin": 351,
+            "has_arrived": false,
+            "scharr_date": "19 Apr 2018",
+            "distance": 37,
+            "scharr": "09:25",
+            "station": {
+                "code": "SPJ",
+                "lat": 25.75,
+                "name": "SAMASTIPUR JN",
+                "lng": 85.916667
+            },
+            "actdep": "15:36",
+            "actarr": "15:16",
+            "day": 0
+        },
+        {
+            "actarr_date": "19 Apr 2018",
+            "has_departed": false,
+            "schdep": "10:40",
+            "status": "346 mins late",
+            "latemin": 346,
+            "has_arrived": false,
+            "scharr_date": "19 Apr 2018",
+            "distance": 89,
+            "scharr": "10:35",
+            "station": {
+                "code": "MFP",
+                "lat": 26.166667,
+                "name": "MUZAFFARPUR JN",
+                "lng": 85.416667
+            },
+            "actdep": "16:26",
+            "actarr": "16:21",
+            "day": 0
+        },
+        {
+            "actarr_date": "19 Apr 2018",
+            "has_departed": false,
+            "schdep": "11:28",
+            "status": "0 mins late",
+            "latemin": 0,
+            "has_arrived": false,
+            "scharr_date": "19 Apr 2018",
+            "distance": 142,
+            "scharr": "11:25",
+            "station": {
+                "code": "HJP",
+                "lat": 25.6905568,
+                "name": "HAJIPUR JN",
+                "lng": 85.2090094
+            },
+            "actdep": "11:28",
+            "actarr": "11:25",
+            "day": 0
+        },
+        {
+            "actarr_date": "19 Apr 2018",
+            "has_departed": false,
+            "schdep": "11:40",
+            "status": "0 mins late",
+            "latemin": 0,
+            "has_arrived": false,
+            "scharr_date": "19 Apr 2018",
+            "distance": 148,
+            "scharr": "11:38",
+            "station": {
+                "code": "SEE",
+                "lat": 27.88121275,
+                "name": "SONPUR JN",
+                "lng": 82.5947818084139
+            },
+            "actdep": "11:40",
+            "actarr": "11:38",
+            "day": 0
+        },
+        {
+            "actarr_date": "19 Apr 2018",
+            "has_departed": false,
+            "schdep": "12:50",
+            "status": "0 mins late",
+            "latemin": 0,
+            "has_arrived": false,
+            "scharr_date": "19 Apr 2018",
+            "distance": 202,
+            "scharr": "12:45",
+            "station": {
+                "code": "CPR",
+                "lat": 25.7784105,
+                "name": "CHHAPRA",
+                "lng": 84.7514507
+            },
+            "actdep": "12:50",
+            "actarr": "12:45",
+            "day": 0
+        },
+        {
+            "actarr_date": "19 Apr 2018",
+            "has_departed": false,
+            "schdep": "13:45",
+            "status": "0 mins late",
+            "latemin": 0,
+            "has_arrived": false,
+            "scharr_date": "19 Apr 2018",
+            "distance": 262,
+            "scharr": "13:40",
+            "station": {
+                "code": "SV",
+                "lat": 26.166667,
+                "name": "SIWAN JN",
+                "lng": 84.5
+            },
+            "actdep": "13:45",
+            "actarr": "13:40",
+            "day": 0
+        },
+        {
+            "actarr_date": "19 Apr 2018",
+            "has_departed": false,
+            "schdep": "16:05",
+            "status": "346 mins late",
+            "latemin": 346,
+            "has_arrived": false,
+            "scharr_date": "19 Apr 2018",
+            "distance": 382,
+            "scharr": "15:50",
+            "station": {
+                "code": "GKP",
+                "lat": 26.7600217,
+                "name": "GORAKHPUR",
+                "lng": 83.3668129
+            },
+            "actdep": "21:51",
+            "actarr": "21:36",
+            "day": 0
+        },
+        {
+            "actarr_date": "20 Apr 2018",
+            "has_departed": false,
+            "schdep": "21:10",
+            "status": "276 mins late",
+            "latemin": 276,
+            "has_arrived": false,
+            "scharr_date": "19 Apr 2018",
+            "distance": 652,
+            "scharr": "20:55",
+            "station": {
+                "code": "LKO",
+                "lat": 26.7502294,
+                "name": "LUCKNOW",
+                "lng": 80.9999263
+            },
+            "actdep": "01:46",
+            "actarr": "01:31",
+            "day": 1
+        },
+        {
+            "actarr_date": "20 Apr 2018",
+            "has_departed": false,
+            "schdep": "22:58",
+            "status": "249 mins late",
+            "latemin": 249,
+            "has_arrived": false,
+            "scharr_date": "19 Apr 2018",
+            "distance": 726,
+            "scharr": "22:48",
+            "station": {
+                "code": "CNB",
+                "lat": 26.4547354,
+                "name": "KANPUR CENTRAL",
+                "lng": 80.3506961
+            },
+            "actdep": "03:07",
+            "actarr": "02:57",
+            "day": 1
+        },
+        {
+            "actarr_date": "20 Apr 2018",
+            "has_departed": false,
+            "schdep": "Destination",
+            "status": "143 mins late",
+            "latemin": 143,
+            "has_arrived": false,
+            "scharr_date": "20 Apr 2018",
+            "distance": 1173,
+            "scharr": "05:30",
+            "station": {
+                "code": "NDLS",
+                "lat": 28.6141793,
+                "name": "NEW DELHI",
+                "lng": 77.2022662
+            },
+            "actdep": "00:00",
+            "actarr": "07:53",
+            "day": 1
+        }
+    ],
+    "start_date": "19 Apr 2018",
+    "position": "Train is currently at Source and late by 0 minutes.",
+    "debit": 2,
+    "current_station": {
+        "code": "DBG",
+        "lat": 26.1569653,
+        "name": "DARBHANGA JN",
+        "lng": 85.8995119
+    },
+    "response_code": 200,
+    "train": {
+        "number": "12565",
+        "classes": [
+            {
+                "available": "N",
+                "code": "CC",
+                "name": "AC CHAIR CAR"
+            },
+            {
+                "available": "Y",
+                "code": "3A",
+                "name": "THIRD AC"
+            },
+            {
+                "available": "Y",
+                "code": "2A",
+                "name": "SECOND AC"
+            },
+            {
+                "available": "N",
+                "code": "2S",
+                "name": "SECOND SEATING"
+            },
+            {
+                "available": "N",
+                "code": "FC",
+                "name": "FIRST CLASS"
+            },
+            {
+                "available": "Y",
+                "code": "1A",
+                "name": "FIRST AC"
+            },
+            {
+                "available": "N",
+                "code": "3E",
+                "name": "3rd AC ECONOMY"
+            },
+            {
+                "available": "Y",
+                "code": "SL",
+                "name": "SLEEPER CLASS"
+            }
+        ],
+        "name": "BIHAR SAMPARK KRANTI EXP",
+        "days": [
+            {
+                "runs": "Y",
+                "code": "MON"
+            },
+            {
+                "runs": "Y",
+                "code": "TUE"
+            },
+            {
+                "runs": "Y",
+                "code": "WED"
+            },
+            {
+                "runs": "Y",
+                "code": "THU"
+            },
+            {
+                "runs": "Y",
+                "code": "FRI"
+            },
+            {
+                "runs": "Y",
+                "code": "SAT"
+            },
+            {
+                "runs": "Y",
+                "code": "SUN"
+            }
+        ]
+    }
+}

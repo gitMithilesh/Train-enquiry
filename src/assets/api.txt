@@ -1,0 +1,27 @@
+Train Autocomplete Suggest : https://api.railwayapi.com/v2/suggest-train/train/<partial train name or number>/apikey/<apikey>/
+
+Train Autocomplete Suggest : https://api.railwayapi.com/v2/suggest-station/name/<partial stn name>/apikey/<apikey>/
+
+Station Code to Name : https://api.railwayapi.com/v2/code-to-name/code/<stn code>/apikey/<apikey>/
+
+Station Name to Code : https://api.railwayapi.com/v2/name-to-code/station/<stn name>/apikey/<apikey>/
+
+Rescheduled Trains : https://api.railwayapi.com/v2/rescheduled/date/<dd-mm-yyyy>/apikey/<apikey>/
+
+Cancelled Trains : https://api.railwayapi.com/v2/cancelled/date/<dd-mm-yyyy>/apikey/<apikey>/
+
+Train Arrivals : https://api.railwayapi.com/v2/arrivals/station/<stn code>/hours/<window period in hours>/apikey/<apikey>/
+
+Train Fare Enquiry : https://api.railwayapi.com/v2/fare/train/<train number>/source/<stn code>/dest/<stn code>/age/<age>/pref/<class code>/quota/<quota code>/date/<dd-mm-yyyy>/apikey/<apikey>/
+
+Train Name/Number : https://api.railwayapi.com/v2/name-number/train/<name or number>/apikey/<apikey>/
+
+Train Between Stations : https://api.railwayapi.com/v2/between/source/<stn code>/dest/<stn code>/date/<dd-mm-yyyy>/apikey/<apikey>/
+
+Seat availability : https://api.railwayapi.com/v2/check-seat/train/<train number>/source/<stn code>/dest/<dest code>/date/<dd-mm-yyyy>/pref/<class code>/quota/<quota code>/apikey/<apikey>/
+
+Train Route : https://api.railwayapi.com/v2/route/train/<train number>/apikey/<apikey>/
+
+PNR Status : https://api.railwayapi.com/v2/pnr-status/pnr/<pnr no>/apikey/<apikey>/
+
+Live Train Status : https://api.railwayapi.com/v2/live/train/<train number>/date/<dd-mm-yyyy>/apikey/<apikey>/

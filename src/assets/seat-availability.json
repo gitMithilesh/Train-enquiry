@@ -1,0 +1,54 @@
+{
+    "response_code": 200,
+    "debit": 3,
+    "train": {
+      "name": "NDLS SHATABDI E",
+      "number": "12001"
+    },
+    "from_station": {
+      "lat": 23.2599333,
+      "name": "BHOPAL  JN",
+      "lng": 77.412615,
+      "code": "BPL"
+    },
+    "to_station": {
+      "lat": 30.6016778,
+      "name": "NEW DELHI",
+      "lng": -98.3488272,
+      "code": "NDLS"
+    },
+    "journey_class": {
+      "name": "AC CHAIR CAR",
+      "code": "CC"
+    },
+    "quota": {
+      "name": "GENERAL QUOTA",
+      "code": "GN"
+    },
+    "availability": [
+      {
+        "date": "14-07-2017",
+        "status": "AVAILABLE 364"
+      },
+      {
+        "date": "15-07-2017",
+        "status": "AVAILABLE 361"
+      },
+      {
+        "date": "16-07-2017",
+        "status": "AVAILABLE 284"
+      },
+      {
+        "date": "17-07-2017",
+        "status": "AVAILABLE 351"
+      },
+      {
+        "date": "18-07-2017",
+        "status": "AVAILABLE 303"
+      },
+      {
+        "date": "19-07-2017",
+        "status": "AVAILABLE 329"
+      }
+    ]
+  }

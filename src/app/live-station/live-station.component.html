@@ -1,0 +1,45 @@
+<!-- <div>    
+  <div class="form-group col-sm-4">
+    <label for="stationName">Enter station code :</label>
+    <input type="text" class="form-control" [(ngModel)]="stationName" name="stationName" placeholder="Station Code" required>
+  </div>
+  <div class="form-group col-sm-4">
+    <select [(ngModel)]="hours" class="form-control">
+      <option value="2">2 Hrs.</option>
+      <option value="4">4 Hrs.</option>
+    </select>
+  </div>
+  <div class="form-group col-sm-4">
+    <button (click)="getStationStatus(stationName, hours)" [disabled]="stationName == ''" class="btn btn-primary">Submit</button>
+  </div>
+</div> -->
+
+<div *ngIf='loader' class="loader"></div>
+<div *ngIf='data' class="table-area">
+  <h5>Live Station : New Delhi</h5>
+  <h6>Total trains found : {{data.total}}</h6>
+  <table class="table">
+    <thead>
+      <tr>
+        <th>Train </th>
+        <th>Sheduled Arr.</th>
+        <th>Sheduled Dep.</th>
+        <th>Actual Arr.</th>
+        <th>Actual Dep.</th>
+        <th>Delayed Arr.</th>
+        <th>Delayed Dep.</th>
+      </tr>
+    </thead>
+    <tbody>
+    <tr *ngFor='let train of data.trains'>
+        <td>{{train.number}} : {{train.name | lowercase}}</td>
+        <td>{{train.scharr}}</td>
+        <td>{{train.schdep}}</td>
+        <td>{{train.actarr}}</td>
+        <td>{{train.actdep}}</td>
+        <td class="nodelay" [ngClass]="{'delay': train.delayarr!='RIGHT TIME'}">{{train.delayarr | lowercase}}</td>
+        <td class="nodelay" [ngClass]="{'delay': train.delaydep!='RIGHT TIME'}">{{train.delaydep | lowercase}}</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
